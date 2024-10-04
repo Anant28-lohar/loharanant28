@@ -1,4 +1,4 @@
-# loharanant28<h1 align="center">Hi 👋, I'm Anant Lohar</h1>
+# anantlohar28<h1 align="center">Hi 👋, I'm Anant Lohar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 💬 Ask me about **Hey I am anant lohar from Shirpur city**
