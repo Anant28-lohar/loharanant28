@@ -1,9 +1,11 @@
 # anantlohar28<h1 align="center">Hi 👋, I'm Anant Lohar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **Hey I am anant lohar from Shirpur city**
+- 💬 Ask me about **Hey I am Anant Lohar B.Tech Student**
 
 - 📫 How to reach me **anantlohar541@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
